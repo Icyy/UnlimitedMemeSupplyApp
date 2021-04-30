@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MemeSharingApp</string>
+    <string name="imageName">TODO</string>
+    <string name="shareBtnName">Share</string>
+    <string name="nextbtnname">Next</string>
+    <string name="loadingButton">loading</string>
+    <string name="selectButton">Select</string>
+    <string name="backButton">TODO</string>
+    <string name="welcome_to_our_unlimited_meme_supply">WELCOME TO OUR UNLIMITED MEME SUPPLY!</string>
+    <string name="inputSubName">Name</string>
+    <string name="enter_a_sub_reddit_name">Enter a sub-reddit name</string>
+    <string name="or">Or</string>
+    <string-array name="sub_names">
+        <item>wholesomememes</item>
+        <item>dankmemes</item>
+        <item>DotA2</item>
+        <item>lotrmemes</item>
+        <item>DotA2</item>
+        <item>Tinder</item>
+    </string-array>
+</resources>
